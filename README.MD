@@ -2,9 +2,9 @@
 
 ## Работа с GIT
 
-<p><img src="https://otvet.imgsmail.ru/download/269713752_1ad92210e79ec2789297a30ecf6eaebd.jpg" width="350"></p>
+<p><img src="https://cs12.pikabu.ru/post_img/2022/01/19/8/og_og_164259660224433856.jpg" width="350"></p>
 
-<p><a href="https://otvet.imgsmail.ru/download/269713752_1ad92210e79ec2789297a30ecf6eaebd.jpg">cxvxcv</a></p>
+<p><a href="https://cs12.pikabu.ru/post_img/2022/01/19/8/og_og_164259660224433856.jpg">cxvxcv</a></p>
 
 ----------
 
