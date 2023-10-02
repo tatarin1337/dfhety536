@@ -2,7 +2,7 @@
 
 ## Работа с GIT
 
-<p><img src="https://cs12.pikabu.ru/post_img/2022/01/19/8/og_og_164259660224433856.jpg" width="350"></p>
+<p align = "center"><img src="https://cs12.pikabu.ru/post_img/2022/01/19/8/og_og_164259660224433856.jpg" width="350"></p>
 
 <p><a href="https://o-tendencii.com/uploads/posts/2023-04/1680874835_o-tendencii-com-p-dagestanskii-stil-odezhdi-parnei-foto-57.jpg">нажми брат</a></p>
 
